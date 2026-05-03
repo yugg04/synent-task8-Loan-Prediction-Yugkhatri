@@ -95,15 +95,6 @@ streamlit run app.py
 
 ---
 
-## 📊 Future Improvements
-
-* Add advanced models (XGBoost, LightGBM)
-* Hyperparameter tuning for better accuracy
-* Deploy on cloud (AWS / Render)
-* Add authentication system
-
----
-
 ## 👨‍💻 Author
 
 **Yug Khatri**
